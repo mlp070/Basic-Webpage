@@ -20,6 +20,6 @@ This is a read me file for demo site. Made by mpb 3/6/24
  <p> It's where the creative process intersects with expression, and individuals can share to the end.</p>
  
 ![image](https://github.com/mlp070/test-Unit-Project-2/assets/162502952/b6837f24-f621-41e6-a11e-b586e2e87919)
-[Return to Main Page] (mlp070.github.io/test-Unit-Project-2/)
+[Return to Main Page](mlp070.github.io/test-Unit-Project-2/)
 </html>
  
